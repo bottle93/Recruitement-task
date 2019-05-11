@@ -1,0 +1,15 @@
+@import "styles/reset.css";
+
+/*task 1*/
+@import "styles/1.css";
+
+/*task 2*/
+@import 'styles/2.css';
+
+/*task 3*/
+@import "styles/3.css";
+
+
+::-webkit-scrollbar {
+    display: none;
+}
